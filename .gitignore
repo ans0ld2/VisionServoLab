@@ -1,0 +1,22 @@
+__pycache__/
+*.pyc
+.venv/
+
+# Experiment outputs
+results/*
+!results/README.md
+
+# Local editor and OS files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+
+# Packaging
+*.egg-info/
+dist/
+build/
+
